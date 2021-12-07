@@ -4,7 +4,7 @@ var inkColor = "blue";
 var imgSrc = "pages/page (0).jpg";
 var dfont = "22px myfont";
 var mydata =
-  "Strat Writing your Text in the Above Box to convert it into a Handwritten Scanned PDF like Document, You can also change the fonts style and even upload your own page ANd fonts to it. <br> This Project was a Practice like project for SHREYASH DUBEY on the topic of Getting input of various objects from the user.";
+  "Strat Writing your Text in the Above Box to convert it into a Handwritten Scanned PDF like Image, You can also change the fonts style and even upload your own page ANd fonts to it.\n\nThis Project was a Practice like project for SHREYASH DUBEY on the topic of Getting input of various objects from the user.";
 var maxWidth = 720;
 var lineHeight = 24;
 var x = 28;
