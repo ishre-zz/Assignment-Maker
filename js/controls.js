@@ -42,8 +42,10 @@ UploadPage.onclick = () => {
 };
 
 DefaultPage.onclick = () => {
-  imgSrc = "pages/page (0).jpg";
-  redraw();
+  pageindex < totalpagenum ? pageindex++ : (fontindex = 0);
+  //imgSrc = "pages/page (0).jpg";
+  loadPages();
+  //redraw();
 };
 
 ChangeFont.onclick = () => {
